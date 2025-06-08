@@ -1,0 +1,48 @@
+.weight-table-container {
+    max-width: 400px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: #FAF7F0; /* Soft white background */
+    border-radius: 12px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .title {
+    text-align: center;
+    color: #3A4D58; /* Shibui Navy */
+    margin-bottom: 1rem;
+  }
+  
+  .weight-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .weight-table th,
+  .weight-table td {
+    border: 1px solid #A8C686; /* Matcha Green border */
+    padding: 0.5rem;
+    text-align: center;
+  }
+  
+  .weight-table th {
+    background-color: #F2F0EB; /* Kiri Mist */
+    color: #3A4D58;
+  }
+  
+  .weight-input {
+    width: 60px;
+    padding: 0.25rem;
+    text-align: center;
+    border: 1px solid #A8C686;
+    border-radius: 4px;
+  }
+  
+  .avg-row {
+    background-color: #F2F0EB;
+  }
+  
+  .avg-row td {
+    color: #B12A34; /* Kurenai Red for highlight */
+  }
+  

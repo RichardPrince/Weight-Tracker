@@ -1,0 +1,16 @@
+.footer {
+    background-color: #F2F0EB; /* Kiri Mist: light greyish background */
+    padding: 1rem 2rem;
+    text-align: center;
+    border-top: 1px solid #A8C686; /* Matcha Green border for subtle separation */
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+  
+  .footer-text {
+    color: #3A4D58; /* Shibui Navy text color */
+    font-size: 0.9rem;
+    margin: 0;
+  }

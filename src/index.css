@@ -1,0 +1,14 @@
+::backdrop {
+  background-color: rgba(28, 28, 28, 0.8); /* Sumi Ink Black with transparency */
+}
+h1, h2, h3 {
+  color: #1C1C1C; /* Sumi Ink Black */
+}
+
+.small-text {
+  color: #6B7A86; /* Asagi Grey */
+}
+
+button {
+  color: #FFFFFF; /* White text on dark backgrounds */
+}
