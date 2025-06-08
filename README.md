@@ -41,16 +41,14 @@ To run this project on your local machine:
    npm start
    ```
 
-The application will be available at [http://localhost:3000](http://localhost:3000).
+The application will be available at [http://localhost:3000].
 
 ## Future Enhancements
 
-- Implement data persistence using local storage or a backend database
-- Allow users to customize the date range
-- Integrate chart visualizations for better weight tracking insights
+- TBD
 
 ## Author
 
-- [Your Name] ([Your GitHub profile link])
+- Richard Prince - [https://github.com/RichardPrince]
 
 Feel free to fork this project and modify it to fit your needs. Contributions and feedback are welcome.
