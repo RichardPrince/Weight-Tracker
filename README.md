@@ -1,12 +1,56 @@
-# React + Vite
+# Weight Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Weight Tracker is a simple React-based web application that allows users to log their daily weight over a week and calculates the average weight. It provides a user-friendly interface for tracking weight fluctuations and helps monitor weekly progress.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Enter daily weights for the week
+- Automatically calculates and displays the average weight
+- Clean and intuitive table-based interface
 
-## Expanding the ESLint configuration
+## Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+You can view the live application here: [https://weight-tracker-kappa-wine.vercel.app](https://weight-tracker-kappa-wine.vercel.app)
+
+## Tech Stack
+
+- React (Frontend framework)
+- JavaScript
+- CSS for styling (`../Style/WeightTable.css`)
+
+## Running Locally
+
+To run this project on your local machine:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/weight-tracker.git
+   cd weight-tracker
+   ```
+
+2. Install the required dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+The application will be available at [http://localhost:3000](http://localhost:3000).
+
+## Future Enhancements
+
+- Implement data persistence using local storage or a backend database
+- Allow users to customize the date range
+- Integrate chart visualizations for better weight tracking insights
+
+## Author
+
+- [Your Name] ([Your GitHub profile link])
+
+Feel free to fork this project and modify it to fit your needs. Contributions and feedback are welcome.
